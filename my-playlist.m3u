@@ -1,0 +1,10 @@
+#EXTM3U
+#PLAYLIST:my-playlist
+# Built with the CODECS.COM Playlist Builder
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGxt6x72OxD0sdIiDjDwimm1IeGcGHSBcN0577U89fqA&s",Sitel
+https://teve.mk/tvstanici/s1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Logo_of_Kanal_5.svg/1280px-Logo_of_Kanal_5.svg.png?utm_source=mk.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Kanal 5
+https://teve.mk/tvstanici/2/playlist.m3u8
+
